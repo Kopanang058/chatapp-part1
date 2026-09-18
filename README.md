@@ -1,7 +1,6 @@
 # Chat Application — PoE Part 1 (Registration and Login)
 
-A console-only Java application that registers a user and logs them in, with
-JUnit 5 unit tests and automated testing on every push via GitHub Actions.
+A console-only Java application that registers a user and logs them in.
 
 ## Project structure
 

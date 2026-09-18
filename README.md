@@ -28,8 +28,7 @@ mvn compile exec:java    # run the console application
 | Password | At least 8 characters, a capital letter, a number, a special character |
 | Cell number | International code `+27` followed by no more than 10 digits |
 
-## Suggested commit sequence (minimum six commits)
-
+## Suggested commit sequence 
 1. `Initial commit: Maven project setup`
 2. `Add Login class with checkUserName method`
 3. `Add password complexity validation`
